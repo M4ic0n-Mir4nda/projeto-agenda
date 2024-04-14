@@ -9,7 +9,8 @@ Apresento o projeto de uma aplicação de agenda de contatos, que pude desenvolv
 
 ## Detalhes do projeto
 
-Funcionalidades Principais do projeto:
+## Funcionalidades Principais do projeto:
+
 Cadastro de Usuário: Antes de criar um agendamento, os usuários precisam criar uma conta. O processo de cadastro inclui validações no backend para garantir a segurança e integridade dos dados.
 
 Login Seguro: Após o cadastro, os usuários podem fazer login na plataforma. O sistema de login também passa por validações no backend para proteger as informações dos usuários.
@@ -19,7 +20,8 @@ Edição de Compromissos: Os usuários têm a flexibilidade de editar os contato
 
 Exclusão de Contatos: Se um contato não for mais necessário, os usuários podem facilmente excluí-lo de sua agenda.
 
-Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
+
 Node.js: Utilizado como ambiente de execução para o servidor.
 
 Express.js: Framework web para Node.js, utilizado para criar APIs RESTful e gerenciar rotas na aplicação.
